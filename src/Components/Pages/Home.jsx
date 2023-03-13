@@ -1,7 +1,13 @@
+import './Home.css';
+
 function Home(){
     return(
         <div>
-            <h1>This is the Home Page</h1>
+            <div id="imageDiv">
+            <h1>Bringing the Future Closer</h1>
+            </div>
+
+
         </div>
 
     );
